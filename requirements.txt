@@ -1,0 +1,6 @@
+pandas
+matplotlib
+numpy
+memory_profiler
+duckdb
+polars
