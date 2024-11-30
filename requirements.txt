@@ -4,3 +4,4 @@ numpy
 memory_profiler
 duckdb
 polars
+faker
